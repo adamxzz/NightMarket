@@ -1,0 +1,98 @@
+body{
+    font-family: 'Be Vietnam', sans-serif;
+}
+.tfont{
+    font-family: 'Staatliches', cursive;
+}
+.tsize{
+    font-size: 32px;
+}
+.nspace{
+    margin:0px;
+    padding:0px;
+    border:0px;
+}
+.red{
+    color: red;
+}
+
+.boxy{
+    height: 900px;
+    width: 900px;
+}
+
+.boxfit{
+    height: 400px;
+    width: 800px;
+    object-fit: cover;
+}
+
+.contspace{
+    margin-bottom: 40px;
+}
+
+.topspace{
+    margin-top: 40px;
+}
+
+.red{
+    background-color: #FF4757;
+}
+.blacktext{
+    color: black;
+}
+
+.fit{
+    object-fit: cover;
+}
+
+.btnspace{
+    margin-right: 10px;
+    border-color: black
+}
+
+.btn1 {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn2 {
+  position: absolute;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn3 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background-color: white;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: #FF4757;
+}
